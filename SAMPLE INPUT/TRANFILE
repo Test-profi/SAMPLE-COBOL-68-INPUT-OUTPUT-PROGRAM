@@ -1,0 +1,18 @@
+Position 1-6: Item Number
+Position 7: Transaction Type (R=Receipt, I=Issue)
+Position 8-14: Quantity (7 digits, right-justified, zero-filled)
+Position 15-24: Transaction Date (MM-DD-YYYY format)
+Position 25-80: Filler/unused
+001001R000005001-24-2026                                       
+001002I000002501-24-2026                                       
+001003R000010001-24-2026                                       
+001004I000001001-24-2026                                       
+001005I000020001-24-2026                                       
+001006R000015001-24-2026                                       
+001007I000005001-25-2026                                       
+001008R000007501-25-2026                                       
+001009I000000501-25-2026                                       
+001010R000010001-25-2026                                       
+001999I000005001-25-2026                                       
+001003I999999901-25-2026                                       
+001002I000050001-25-2026

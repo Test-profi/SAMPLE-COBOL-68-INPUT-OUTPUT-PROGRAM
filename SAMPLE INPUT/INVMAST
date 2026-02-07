@@ -1,0 +1,14 @@
+Position 1-6: Item Number
+Position 7-36: Item Description
+Position 37-43: Quantity on Hand (7 digits, right-justified, zero-filled)
+Position 44-80: Filler/unused
+001001WIDGET A                     0000125                               
+001002WIDGET B                     0000250                               
+001003GADGET SMALL                 0000500                               
+001004GADGET LARGE                 0000075                               
+001005SPROCKET 10MM                0001000                               
+001006SPROCKET 20MM                0000300                               
+001007BOLT ASSORTMENT              0000450                               
+001008WASHER KIT                   0000200                               
+001009GEAR SET ALPHA               0000100                               
+001010GEAR SET BETA                0000150
